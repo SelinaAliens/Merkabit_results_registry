@@ -88,6 +88,18 @@ Most cited scripts live in https://github.com/SelinaAliens (one repo per paper).
 | 40, 41 | [Riemanns_resolution](https://github.com/SelinaAliens/Riemanns_resolution) |
 | Companion | [merkabit-companion-analysis](https://github.com/SelinaAliens/merkabit-companion-analysis) |
 
+## Riemann Hypothesis resolution chain (Papers 37–41)
+
+The full architectural derivation of RH is published as a 5-paper chain (all May 2026):
+
+| # | Title | Zenodo DOI |
+|---|-------|-----------|
+| 37 | Hilbert-Pólya Candidate / Structural Reduction via Z₃ × Z₃ Tunnel Operator | [10.5281/zenodo.20205429](https://doi.org/10.5281/zenodo.20205429) |
+| 38 | First Uplift: Axis-Genesis as Origin of Rotational Structure | [10.5281/zenodo.20205440](https://doi.org/10.5281/zenodo.20205440) |
+| 39 | Architectural Genesis Sequence: Two-Flow Uplift to Tesseract Self-Sustainment | [10.5281/zenodo.20205477](https://doi.org/10.5281/zenodo.20205477) |
+| 40 | RH Resolution Part 1: Fano-Cycle Closures of σ-Equivariant Operator System (2000 zeros) | [10.5281/zenodo.20205599](https://doi.org/10.5281/zenodo.20205599) |
+| 41 | RH Resolution Part 2 (Synthesis): Selberg Trace on Klein Quartic + STT Theorem | [10.5281/zenodo.20205552](https://doi.org/10.5281/zenodo.20205552) |
+
 ## How to cite
 
 Stenberg, S. (2026). *Merkabit Research — Master Results Registry*. GitHub. https://github.com/SelinaAliens/Merkabit_results_registry
