@@ -75,17 +75,18 @@ Most cited scripts live in https://github.com/SelinaAliens (one repo per paper).
 | 15 | [rotation_gap_is_flat](https://github.com/SelinaAliens/rotation_gap_is_flat) |
 | 16 | [Yang-Mills_Spectral-Resonance](https://github.com/SelinaAliens/Yang-Mills_Spectral-Resonance) |
 | 17 | [plasma_is_the_weak_force](https://github.com/SelinaAliens/plasma_is_the_weak_force) |
-| 20 / 22 | [Merkabit_architecture_gravity_cosmological_constant](https://github.com/SelinaAliens/Merkabit_architecture_gravity_cosmological_constant) |
-| 27 | [Black_holes_holography_membrane](https://github.com/SelinaAliens/Black_holes_holography_membrane) |
+| 18 | [entanglement_4-3](https://github.com/SelinaAliens/entanglement_4-3) |
+| 20, 21, 22, 23 | [Merkabit_architecture_gravity_cosmological_constant](https://github.com/SelinaAliens/Merkabit_architecture_gravity_cosmological_constant) |
+| 24, 25, 26 | [merkabit_hardware_test](https://github.com/SelinaAliens/merkabit_hardware_test) |
+| 27, 28 | [Black_holes_holography_membrane](https://github.com/SelinaAliens/Black_holes_holography_membrane) |
 | 29 | [three_generations_merkabit](https://github.com/SelinaAliens/three_generations_merkabit) |
-| 32 | [tesseract_quantum_implementation](https://github.com/SelinaAliens/tesseract_quantum_implementation) |
+| 31, 32 | [tesseract_quantum_implementation](https://github.com/SelinaAliens/tesseract_quantum_implementation) |
 | 33 | [pentachoric_verification](https://github.com/SelinaAliens/pentachoric_verification) |
-| 35 | [closure_forces_the_clock](https://github.com/SelinaAliens/closure_forces_the_clock) |
-| 37, 38, 40 | [Riemanns_alignment](https://github.com/SelinaAliens/Riemanns_alignment) |
+| 35, 36 | [closure_forces_the_clock](https://github.com/SelinaAliens/closure_forces_the_clock) |
+| 37, 38 | [Riemanns_alignment](https://github.com/SelinaAliens/Riemanns_alignment) |
 | 39 | [genesis_sequence_merkabit](https://github.com/SelinaAliens/genesis_sequence_merkabit) |
-| 41 | [Riemanns_resolution](https://github.com/SelinaAliens/Riemanns_resolution) |
+| 40, 41 | [Riemanns_resolution](https://github.com/SelinaAliens/Riemanns_resolution) |
 | Companion | [merkabit-companion-analysis](https://github.com/SelinaAliens/merkabit-companion-analysis) |
-| Entanglement | [entanglement_4-3](https://github.com/SelinaAliens/entanglement_4-3) |
 
 ## How to cite
 
